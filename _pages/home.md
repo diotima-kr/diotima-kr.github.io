@@ -23,7 +23,7 @@ item_gallery:
     alt: "Use Items!"
 excerpt: >
   <br><br><br>
-  <br><br>
+  <br><br><br>
 ---
 
 ## Bubble Invasion 3D
