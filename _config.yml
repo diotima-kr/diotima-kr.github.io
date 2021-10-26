@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Diotima Game Studio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Diotima"
+name                     : "Diotima Co., Ltd."
 description              : "Diotima Game Studio"
 url                      : "https://diotima.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diotima.kr/diotima-kr.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/studio_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -282,6 +282,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: false
-      
+      layout: single      
+
+github: [metadata]

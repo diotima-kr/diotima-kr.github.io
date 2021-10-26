@@ -28,6 +28,10 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+  - title: "Bubble Invasion 3D"
+    url: /
+  - title: "About"
+    url: /about/
   - title: "Privacy Policy"
     url: /privacy/
 
