@@ -50,7 +50,7 @@ It's fun to pop a lot of bubbles in one shot.
 - There are 2,147,483,647 levels for each difficulty.
 - You can play games offline without WiFi.
 - Sometimes you have to catch ghosts or break a monoliths.
-- During fever time, you can shoot bomb bubbles.
+- In blitz, you have to shoot bomb bubbles as fast as possible to deal with the bubbles that come down twice as fast.
 - You can choose a starting theme with cute animals and a space theme where spacecraft travels.
 - Supports color-blind mode.
 
