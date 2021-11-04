@@ -26,7 +26,17 @@ excerpt: >
   <br><br><br>
 ---
 
-## Bubble Invasion 3D
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+|| <a href='https://apps.apple.com/kr/app/bubble-invasions/id1560971587'><img alt='Download on the App Store' src='/assets/images/Badge_App_Store_US.png'></a> || <a href='https://play.google.com/store/apps/details?id=com.diotima.shootbubble3d'><img alt='Get it on Google Play' src='assets/images/Badge_Google_Play.png'/></a> ||
+
+<!-- google original ref = https://play.google.com/store/apps/details?id=com.diotima.shootbubble3d&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1 -->
+
+## Bubble Invasions
 
 
 Enjoy the new arcade-style bubble shooting game.
@@ -71,3 +81,6 @@ It's fun to pop a lot of bubbles in one shot.
 {% include gallery id="item_gallery" layout="third" %}
 
 Try clearing difficult levels by purchasing items as clear rewards.
+
+|<font size=2>App Store is a service mark of Apple, Inc.</font>|
+|<font size=2>Google Play and the Google Play logo are trademarks of Google LLC.</font>|
